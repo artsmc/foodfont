@@ -1,0 +1,57 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+.mc{font-family:'MeshellCoFoodIcons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+@font-face{font-family:'MeshellCoFoodIcons';src:url('fonts/MeshellCoFoodIcons.eot');src:url('fonts/MeshellCoFoodIcons.eot') format('embedded-opentype'),url('fonts/MeshellCoFoodIcons.ttf') format('truetype'),url('fonts/MeshellCoFoodIcons.woff') format('woff'),url('fonts/MeshellCoFoodIcons.svg#MeshellCoFoodIcons') format('svg');font-weight:normal;font-style:normal;}.mc-lg{font-size:1.3333333333333333em;line-height:0.75em;vertical-align:-15%;}
+.mc-2x{font-size:2em;}
+.mc-3x{font-size:3em;}
+.mc-4x{font-size:4em;}
+.mc-5x{font-size:5em;}
+.mc-fw{width:1.2857142857142858em;text-align:center;}
+.mc-rotate-90:before{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);-webkit-transform:rotate(90deg);-moz-transform:rotate(90deg);-ms-transform:rotate(90deg);-o-transform:rotate(90deg);transform:rotate(90deg);}
+.mc-rotate-180:before{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg);}
+.mc-rotate-270:before{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3);-webkit-transform:rotate(270deg);-moz-transform:rotate(270deg);-ms-transform:rotate(270deg);-o-transform:rotate(270deg);transform:rotate(270deg);}
+.mc-flip-horizontal:before{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);-webkit-transform:scale(-1, 1);-moz-transform:scale(-1, 1);-ms-transform:scale(-1, 1);-o-transform:scale(-1, 1);transform:scale(-1, 1);}
+.mc-flip-vertical:before{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);-webkit-transform:scale(1, -1);-moz-transform:scale(1, -1);-ms-transform:scale(1, -1);-o-transform:scale(1, -1);transform:scale(1, -1);}
+.mc-bakingmit:before{content:"\e600";}
+.mc-wineglass:before{content:"\e601";}
+.mc-winebottle:before{content:"\e602";}
+.mc-teapot:before{content:"\e603";}
+.mc-teacup:before{content:"\e604";}
+.mc-strainertall:before{content:"\e605";}
+.mc-strainer:before{content:"\e606";}
+.mc-steak:before{content:"\e607";}
+.mc-spoontallholes:before{content:"\e608";}
+.mc-spoontall:before{content:"\e609";}
+.mc-spoon:before{content:"\e60a";}
+.mc-spatulasmall:before{content:"\e60b";}
+.mc-spatulamedium:before{content:"\e60c";}
+.mc-spatulalarge:before{content:"\e60d";}
+.mc-spatulagrill:before{content:"\e60e";}
+.mc-spatulaflat:before{content:"\e60f";}
+.mc-saltshaker:before{content:"\e610";}
+.mc-pretzel:before{content:"\e611";}
+.mc-pot:before{content:"\e612";}
+.mc-pizza:before{content:"\e614";}
+.mc-pin:before{content:"\e615";}
+.mc-pan:before{content:"\e616";}
+.mc-measurecup:before{content:"\e617";}
+.mc-knifecleaver:before{content:"\e618";}
+.mc-knifebutch:before{content:"\e619";}
+.mc-knifebread:before{content:"\e61a";}
+.mc-knife:before{content:"\e61b";}
+.mc-kitchenaid:before{content:"\e61c";}
+.mc-icecream:before{content:"\e61d";}
+.mc-fork:before{content:"\e61e";}
+.mc-flour:before{content:"\e61f";}
+.mc-wisk:before{content:"\e620";}
+.mc-cuttingboardhandle:before{content:"\e621";}
+.mc-cuttingboard:before{content:"\e622";}
+.mc-cupcake:before{content:"\e623";}
+.mc-crockpot:before{content:"\e624";}
+.mc-crab:before{content:"\e625";}
+.mc-chickenthigh:before{content:"\e626";}
+.mc-cherries:before{content:"\e627";}
+.mc-chefhat:before{content:"\e628";}
+.mc-cheese:before{content:"\e629";}
+.mc-carrot:before{content:"\e62a";}
+.mc-bread:before{content:"\e62b";}
+.mc-bowl:before{content:"\e62c";}
